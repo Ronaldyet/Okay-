@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 
-# Added information below.
-title: "Profile Website"
-name: "Sophie Engle"
+# Added information below. 
+# See: https://github.com/pages-themes/minimal
+title: "Sophie Engle"
+description: "Example Github Pages website for CS 186-02 Community Engaged CS."
