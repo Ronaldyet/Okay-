@@ -1,5 +1,7 @@
 # Sophie Engle
 
+![Profile Image](profile.jpeg)
+
 :woman_teacher: *Hello!* 
 
 I am an Associate Professor in the Department of Computer Science at the [University of San Francisco](https://www.usfca.edu/). I was born on the east coast, grew up in the midwest, and made my home on the west coast. Outside of the classroom, I am 100% an introvert.
