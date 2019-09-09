@@ -1,14 +1,35 @@
-## Github Pages
+# Sophie Engle
 
-For how to setup a Github Pages website in this repository, go to:
+:woman_teacher: *Hello!* 
 
-<https://pages.github.com/#project-site>
+I am an Associate Professor in the Department of Computer Science at the [University of San Francisco](https://www.usfca.edu/). I was born on the east coast, grew up in the midwest, and made my home on the west coast. Outside of the classroom, I am 100% an introvert.
 
-You have administrator priviledges to your repository so that you can change the necessary settings. Change this file when ready to include your own website content.
+## Current Courses
 
-## Markdown Reference
+These are the courses I am teaching for Fall 2019:
 
-You can create your first Github Page using one of the built-in templates and Markdown. Using Markdown, you generate a text file using a specific syntax that controls how the output will be formatted. For example, the text `**bold**` will create **bold** text. For more, see:
+| Course     | Description              | Units | Days     | Time              |
+|:-----------|:-------------------------|:-----:|:---------|------------------:|
+| CS 186-02  | Community Engaged CS     |   2   | Mon      |  4:45pm -- 6:20pm |
+| CS 212-01  | Software Development     |   4   | Tue, Thu | 12:45pm -- 2:30pm |
+| CS 212-02  | Software Development     |   4   | Tue, Thu |  4:35pm -- 6:20pm |
+| CS 212L-01 | Software Development Lab |   0   | Fri      |  1:00pm -- 2:05pm |
+| CS 212L-01 | Software Development Lab |   0   | Fri      |  2:15pm -- 3:20pm |
 
-<https://guides.github.com/features/mastering-markdown/>
+## Education
+
+  - PhD in Computer Science, *University of California, Davis*, 2010
+  - BS in Computer Science, *University of Nebraska at Omaha*, 2002
+
+## Contact Information
+
+:school: Harney 412B  
+:phone: 1 (415) 422-4174  
+:link: <https://sjengle.cs.usfca.edu>  
+:email: <sjengle@cs.usfca.edu>  
+:octocat: <https://github.com/sjengle>
+
+## Hobbies
+
+I enjoy exploring and taking photos with my corgi [Casablanca](https://www.instagram.com/casablanca_corgi/).
 
